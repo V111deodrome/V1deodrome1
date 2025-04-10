@@ -635,12 +635,6 @@ http://cdn.admuspeh.my/8866/video.m3u8?token=PXr6aKoxRS1jPN48
 http://cdn.admuspeh.my/8867/video.m3u8?token=PXr6aKoxRS1jPN48
 #EXTINF:-1 tvg-id="769" group-title="ДЕТСКИЕ"  tvg-logo="https://m3u.admuspeh.my/icon/Cartoons%2090.png" catchup-days="0", CineMan Cartoons 90 FHD
 http://cdn.admuspeh.my/8812/video.m3u8?token=PXr6aKoxRS1jPN48
-#EXTINF:-1 tvg-id="768" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-old4k.png" catchup-days="0", CineMan OLD 4K
-http://cdn.admuspeh.my/8804/video.m3u8?token=PXr6aKoxRS1jPN48
-#EXTINF:-1 tvg-id="767" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-sssr4k.png" catchup-days="0", CineMan CCCP 4K
-http://cdn.admuspeh.my/8795/video.m3u8?token=PXr6aKoxRS1jPN48
-#EXTINF:-1 tvg-id="766" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-relax.png" catchup-days="0", CineMan Relax 4K
-http://cdn.admuspeh.my/8822/video.m3u8?token=PXr6aKoxRS1jPN48
 #EXTINF:-1 tvg-id="569" group-title="КИНО"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20NewFilm%201%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8741/video-${start}-${duration}.m3u8?token=PXr6aKoxRS1jPN48" timeshift="1", MiniMax Newfilm 1
 http://cdn.admuspeh.my/8741/video.m3u8?token=PXr6aKoxRS1jPN48
 #EXTINF:-1 tvg-id="570" group-title="КИНО"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20NewFilm%202%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8742/video-${start}-${duration}.m3u8?token=PXr6aKoxRS1jPN48" timeshift="1", MiniMax Newfilm 2
@@ -697,8 +691,6 @@ http://cdn.admuspeh.my/8658/video.m3u8?token=PXr6aKoxRS1jPN48
 http://cdn.admuspeh.my/8633/video.m3u8?token=PXr6aKoxRS1jPN48
 #EXTINF:-1 tvg-id="970" group-title="КИНО"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20World%20Hits%20HD.png" catchup-days="0", MiniMax World Hits HD
 http://cdn.admuspeh.my/8617/video.m3u8?token=PXr6aKoxRS1jPN48
-#EXTINF:-1 tvg-id="583" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Flip%20UHD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8404/video-${start}-${duration}.m3u8?token=PXr6aKoxRS1jPN48" timeshift="1", MiniMax Flip UHD
-http://cdn.admuspeh.my/8404/video.m3u8?token=PXr6aKoxRS1jPN48
 #EXTINF:-1 tvg-id="987" group-title="КИНО"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%20%D0%9A%D0%B8%D0%BD%D0%B3%20HD.png" catchup-days="0", MiniMax Стивен Кинг HD
 http://cdn.admuspeh.my/8629/video.m3u8?token=PXr6aKoxRS1jPN48
 #EXTINF:-1 tvg-id="585" group-title="КИНО"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20UFO%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8410/video-${start}-${duration}.m3u8?token=PXr6aKoxRS1jPN48" timeshift="1", MiniMax UFO HD
@@ -799,8 +791,6 @@ http://cdn.admuspeh.my/8637/video.m3u8?token=PXr6aKoxRS1jPN48
 http://cdn.admuspeh.my/8638/video.m3u8?token=PXr6aKoxRS1jPN48
 #EXTINF:-1 tvg-id="1001" group-title="КИНО"  tvg-logo="https://m3u.admuspeh.my/icon/MS%20Young%20Blood%20HD.png" catchup-days="0", MS YOUNG BLOOD HD
 http://cdn.admuspeh.my/8642/video.m3u8?token=PXr6aKoxRS1jPN48
-#EXTINF:-1 tvg-id="1006" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/MS%20MAGIC%20HD.png" catchup-days="0", MS MAGIC 4K
-http://cdn.admuspeh.my/8657/video.m3u8?token=PXr6aKoxRS1jPN48
 #EXTINF:-1 tvg-id="939" group-title="КИНО"  tvg-logo="https://m3u.admuspeh.my/icon/GL_Brief.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8568/video-${start}-${duration}.m3u8?token=PXr6aKoxRS1jPN48" timeshift="1", GoldLine Brief
 http://cdn.admuspeh.my/8568/video.m3u8?token=PXr6aKoxRS1jPN48
 #EXTINF:-1 tvg-id="940" group-title="КИНО"  tvg-logo="https://m3u.admuspeh.my/icon/GL_Evidence.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8569/video-${start}-${duration}.m3u8?token=PXr6aKoxRS1jPN48" timeshift="1", GoldLine Evidence
