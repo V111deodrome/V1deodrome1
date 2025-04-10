@@ -949,6 +949,37 @@ http://cdn.admuspeh.my/9077/video.m3u8?token=PXr6aKoxRS1jPN48
 http://cdn.admuspeh.my/9080/video.m3u8?token=PXr6aKoxRS1jPN48
 #EXTINF:-1 tvg-id="1104" group-title="КИНО"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_happy_new_year.png" catchup-days="0", Kernel TV Счастливого нового года HD
 http://cdn.admuspeh.my/9084/video.m3u8?token=PXr6aKoxRS1jPN48
+#EXTINF:-1 tvg-id="768" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-old4k.png" catchup-days="0", CineMan OLD 4K
+http://cdn.admuspeh.my/8804/video.m3u8?token=PXr6aKoxRS1jPN48
+#EXTINF:-1 tvg-id="767" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-sssr4k.png" catchup-days="0", CineMan CCCP 4K
+http://cdn.admuspeh.my/8795/video.m3u8?token=PXr6aKoxRS1jPN48
+#EXTINF:-1 tvg-id="766" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-relax.png" catchup-days="0", CineMan Relax 4K
+http://cdn.admuspeh.my/8822/video.m3u8?token=PXr6aKoxRS1jPN48
+#EXTINF:-1 tvg-id="583" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Flip%20UHD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8404/video-${start}-${duration}.m3u8?token=PXr6aKoxRS1jPN48" timeshift="1", MiniMax Flip UHD
+#EXTINF:-1 tvg-id="1006" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/MS%20MAGIC%20HD.png" catchup-days="0", MS MAGIC 4K
+http://cdn.admuspeh.my/8657/video.m3u8?token=PXr6aKoxRS1jPN48
+#EXTINF:-1 tvg-id="611" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%B0%D1%88%D0%B0%20%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%8C%20HD.png" catchup-days="0", Наша сибирь 4K
+http://cdn.admuspeh.my/8677/video.m3u8?token=PXr6aKoxRS1jPN48
+#EXTINF:-1 tvg-id="530" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/Russian%20Extreme%20Ultra.png" catchup-days="0", Ultra REX 4k
+http://cdn.admuspeh.my/8907/video.m3u8?token=PXr6aKoxRS1jPN48
+#EXTINF:-1 tvg-id="612" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/Fashion%20TV%20UHD.png" catchup-days="0", Fashion&Style 4K
+http://cdn.admuspeh.my/8678/video.m3u8?token=PXr6aKoxRS1jPN48
+#EXTINF:-1 tvg-id="614" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/TravelXP%204K.png" catchup-days="0", Travelxp 4K
+http://cdn.admuspeh.my/8680/video.m3u8?token=PXr6aKoxRS1jPN48
+#EXTINF:-1 tvg-id="615" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/Quadro%204%D0%9A.png" catchup-days="0", Quadro 4K
+http://cdn.admuspeh.my/8681/video.m3u8?token=PXr6aKoxRS1jPN48
+#EXTINF:-1 tvg-id="617" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/Insight%20UHD%204K.png" catchup-days="0", Инсайт UHD
+http://cdn.admuspeh.my/8683/video.m3u8?token=PXr6aKoxRS1jPN48
+#EXTINF:-1 tvg-id="618" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%20UHD%204K.png" catchup-days="0", Кино UHD
+http://cdn.admuspeh.my/8684/video.m3u8?token=PXr6aKoxRS1jPN48
+#EXTINF:-1 tvg-id="877" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/Museum%204K.png" catchup-days="0", Museum 4k
+http://cdn.admuspeh.my/8905/video.m3u8?token=PXr6aKoxRS1jPN48
+#EXTINF:-1 tvg-id="878" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/Ultra%20HD%20Cinema%204K.png" catchup-days="0", Ultra Cinema 4k
+http://cdn.admuspeh.my/8906/video.m3u8?token=PXr6aKoxRS1jPN48
+#EXTINF:-1 tvg-id="616" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/SKY%20HIGH%20MIX%204K.png" catchup-days="0", SKY HIGH mix 4K
+http://cdn.admuspeh.my/8682/video.m3u8?token=PXr6aKoxRS1jPN48
+#EXTINF:-1 tvg-id="620" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/SKY%20HIGH%20DOC%20UHD.png" catchup-days="0", SKY HIGH doc UHD
+http://cdn.admuspeh.my/8686/video.m3u8?token=PXr6aKoxRS1jPN48
 #EXTINF:-1 tvg-id="120" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A8%D1%91%D0%BB%D0%BA.png" catchup-days="0", Шёлк
 http://cdn.admuspeh.my/8129/video.m3u8?token=PXr6aKoxRS1jPN48
 #EXTINF:-1 tvg-id="122" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Brazzers%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8131/video-${start}-${duration}.m3u8?token=PXr6aKoxRS1jPN48" timeshift="1", Brazzers TV
